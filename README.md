@@ -9,6 +9,6 @@ Anyways, **this repo is actually available here: [https://codeberg.org/chris-pag
 
 
 And there:
-- [https://forgejo.chrispaganon.com/chris-paganon/dockiy-vitepress](https://forgejo.chrispaganon.com/chris-paganon/dockiy-vitepress) (`chrisp`)
+- [https://forgejo.chrispaganon.com/chris-paganon/dockiy-vitepress](https://forgejo.chrispaganon.com/chris-paganon/dockiy-vitepress)
 
 
